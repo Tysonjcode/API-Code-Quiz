@@ -25,7 +25,6 @@ var questions = [
         answer: "style"
     }
 ];
-
 var totalTime = 59;
 var start = document.querySelector("#startQuiz");
 var count = 0;
